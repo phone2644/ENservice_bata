@@ -1,0 +1,35 @@
+.box {
+    position: relative;
+
+}
+
+.live {
+    color: aliceblue;
+    background-color: red;
+    font-size: 20px;
+    padding: 8px 10px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.view {
+    color: #ffffff;
+    background: blue;
+    font-size: 20px;
+    padding: 8px 10px;
+    bottom: 10px;
+    position: absolute;
+    left: 10px;
+}
+.top-header {
+
+    color: white;
+    background-color: blue;
+    padding: 20px;
+    position: fixed;
+    top: 0px;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}

@@ -1,0 +1,13 @@
+.z-index{
+    z-index: 0;
+    
+}
+.pdt-10{
+    padding-top: 100px;
+
+}
+.card-1{
+    height: 50%;
+    width: 50%;
+    background-color: rgba(139, 0, 0, 0.518);
+}

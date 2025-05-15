@@ -1,0 +1,8 @@
+#preloader {
+    background:#f7f7f7 url(../image/loadstart.gif)no-repeat center center;
+    background-size: 30%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
